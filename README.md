@@ -7,3 +7,5 @@ Data structures and Algorithms with python
 - Linear travese (lookup)
 - Binary Search
 - Bubble Sort
+- Selecetion Sort
+  
