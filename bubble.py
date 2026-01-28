@@ -1,4 +1,4 @@
-def bubble_sort(arr):
+def bubble_sort(arr:list[int]):
     n = len(arr)
     # Traverse through all array elements
     for i in range(n):
@@ -11,4 +11,5 @@ def bubble_sort(arr):
     return arr
 # Example usage
 arr = [64, 34, 25, 12, 22, 11, 90]
+
 print(bubble_sort(arr))
