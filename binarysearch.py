@@ -1,4 +1,4 @@
-def binarysearch(arr, target):
+def binarysearch(arr:List[int], target:int):
     """
     Perform binary search on a sorted array to find the index of the target value.
 
@@ -34,3 +34,4 @@ target = 7
 result = binarysearch(arr, target)
 
 print(result)
+
