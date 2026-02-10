@@ -9,3 +9,7 @@ def quicksort(arr:list[int]):
 
 arr = [6,2,3,1,9,1,11,10]
 print(quicksort(arr))
+
+# TIme complexity  = O(nlogn) , worst case is O(n2)
+# Space complexity = o(logn)
+
