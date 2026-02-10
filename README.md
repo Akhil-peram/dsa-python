@@ -8,4 +8,5 @@ Data structures and Algorithms with python
 - Binary Search
 - Bubble Sort
 - Selection Sort
+- Quick Sort
   
