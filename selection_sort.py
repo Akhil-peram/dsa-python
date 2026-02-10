@@ -11,7 +11,10 @@ def selection(arr:list[int]):
   return arr
 
 print(selection(ls))
-        
+
+
+# Time complexity = O(n2)
+# Space complexity = O(1)
         
         
     
