@@ -10,4 +10,4 @@ Data structures and Algorithms with python
 - Selection Sort
 - Insertion Sort
 - Quick Sort
-  
+- Two Sum
