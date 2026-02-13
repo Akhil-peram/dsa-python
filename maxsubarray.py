@@ -12,11 +12,7 @@ its the sum of sub arrays
 Kadanes analogy 
 if current sum is equal to negative start fresh 
 # 1 to 6 sum it = 11 and -1 , current sum = 10 move  forward and do the same. and if 
-the current sum is negative drop the negative at arr[0] and store the next num in current sum
-like in [1,4,6,-1,2,-3,-2,5]
-sum all positives = [1,4,6,5,2]
-and negatives = [-1,-3,-2]
-positives = 18 
-negatives = -6
-total = 12
+the current sum is negative drop the negative at arr[0] and store the next num in current sum is positive traverse and add the negative as long as the current sum is positive 
+otherwise drop and start fresh
+
 """
