@@ -17,4 +17,5 @@ Data structures and Algorithms with python
 - Anagram
 - Palindrome
 - ToLowerCase
+- Missing Number
   
