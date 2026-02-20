@@ -13,3 +13,8 @@ Data structures and Algorithms with python
 - Two Sum
 - Best time to sell Stocks
 - Max Subarray
+- Panagrams
+- Anagram
+- Palindrome
+- ToLowerCase
+  
