@@ -18,4 +18,5 @@ Data structures and Algorithms with python
 - Palindrome
 - ToLowerCase
 - Missing Number
+- Contains Duplicates
   
